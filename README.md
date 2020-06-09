@@ -10,3 +10,4 @@
   7. Coin Change 2 - Problem [#518](https://leetcode.com/problems/coin-change-2/)
 ## Week 2
   1. Power of Two - Problem [#231](https://leetcode.com/problems/power-of-two/)
+  2. Is Subsequence - Problem [#392](https://leetcode.com/problems/is-subsequence/)
