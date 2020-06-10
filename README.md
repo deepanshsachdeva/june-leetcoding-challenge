@@ -11,3 +11,4 @@
 ## Week 2
   1. Power of Two - Problem [#231](https://leetcode.com/problems/power-of-two/)
   2. Is Subsequence - Problem [#392](https://leetcode.com/problems/is-subsequence/)
+  3. Search Insert Position - Problem [#35](https://leetcode.com/problems/search-insert-position/)
