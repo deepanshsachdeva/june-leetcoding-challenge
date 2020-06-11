@@ -12,3 +12,4 @@
   1. Power of Two - Problem [#231](https://leetcode.com/problems/power-of-two/)
   2. Is Subsequence - Problem [#392](https://leetcode.com/problems/is-subsequence/)
   3. Search Insert Position - Problem [#35](https://leetcode.com/problems/search-insert-position/)
+  4. Sort Colors - Problem [#75](https://leetcode.com/problems/sort-colors/)
