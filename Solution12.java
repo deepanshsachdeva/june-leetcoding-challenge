@@ -1,27 +1,37 @@
 class RandomizedSet {
 
     List<Integer> values;
+    Map<Integer,Integer> map;
     
     /** Initialize your data structure here. */
     public RandomizedSet() {
         values = new ArrayList<>();
+        map = new HashMap<>();
     }
     
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     public boolean insert(int val) {
-        if (!values.contains(val)) {
-            values.add(val);
-            return true;
-        }
+        if (map.containsKey(val)) 
+            return false;
         
-        return false;
+        map.put(val, values.size());  
+        values.add(val);
         
+        return true;
     }
     
     /** Removes a value from the set. Returns true if the set contained the specified element. */
     public boolean remove(int val) {
-        if (values.contains(val)) {
-            values.remove(values.indexOf(val));
+        if (map.containsKey(val)) {
+            int last = values.get(values.size()-1);
+            int ix = map.get(val);
+            
+            values.set(ix,last);
+            map.put(last,ix);
+            
+            values.remove(values.size()-1);
+            map.remove(val);
+            
             return true;
         }
         
