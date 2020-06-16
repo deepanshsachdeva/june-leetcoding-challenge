@@ -16,3 +16,5 @@
   5. Insert Delete GetRandom O(1) - Problem [#380](https://leetcode.com/problems/insert-delete-getrandom-o1/)
   6. Largest Divisible Subset - Problem [#368](https://leetcode.com/problems/largest-divisible-subset/)
   7. Cheapest Flights Within K Stops - Problem [#787](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+## Week 3
+  1. Search in a Binary Search Tree - Problem [#700](https://leetcode.com/problems/search-in-a-binary-search-tree/)
