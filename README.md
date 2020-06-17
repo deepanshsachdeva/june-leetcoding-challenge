@@ -18,4 +18,5 @@
   7. Cheapest Flights Within K Stops - Problem [#787](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 ## Week 3
   1. Search in a Binary Search Tree - Problem [#700](https://leetcode.com/problems/search-in-a-binary-search-tree/)
-  2. Validate IP Address - Problem[#468](https://leetcode.com/problems/validate-ip-address/)
+  2. Validate IP Address - Problem [#468](https://leetcode.com/problems/validate-ip-address/)
+  3. Surrounded Regions - Problem [#130](https://leetcode.com/problems/surrounded-regions/)
