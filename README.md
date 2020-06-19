@@ -20,3 +20,4 @@
   1. Search in a Binary Search Tree - Problem [#700](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   2. Validate IP Address - Problem [#468](https://leetcode.com/problems/validate-ip-address/)
   3. Surrounded Regions - Problem [#130](https://leetcode.com/problems/surrounded-regions/)
+  4. H-Index II - Problem [#275](https://leetcode.com/problems/h-index-ii/)
