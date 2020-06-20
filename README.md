@@ -21,3 +21,4 @@
   2. Validate IP Address - Problem [#468](https://leetcode.com/problems/validate-ip-address/)
   3. Surrounded Regions - Problem [#130](https://leetcode.com/problems/surrounded-regions/)
   4. H-Index II - Problem [#275](https://leetcode.com/problems/h-index-ii/)
+  5. Longest Duplicate Substring - Problem [#1044](https://leetcode.com/problems/longest-duplicate-substring/)
