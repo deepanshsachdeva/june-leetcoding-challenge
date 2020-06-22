@@ -23,3 +23,4 @@
   4. H-Index II - Problem [#275](https://leetcode.com/problems/h-index-ii/)
   5. Longest Duplicate Substring - Problem [#1044](https://leetcode.com/problems/longest-duplicate-substring/)
   6. Permutation Sequence - Problem [#60](https://leetcode.com/problems/permutation-sequence/)
+  7. Dungeon Game - Problem [#174](https://leetcode.com/problems/dungeon-game/)
