@@ -24,3 +24,5 @@
   5. Longest Duplicate Substring - Problem [#1044](https://leetcode.com/problems/longest-duplicate-substring/)
   6. Permutation Sequence - Problem [#60](https://leetcode.com/problems/permutation-sequence/)
   7. Dungeon Game - Problem [#174](https://leetcode.com/problems/dungeon-game/)
+## Week 4
+  1. Single Number II - Problem [#137](https://leetcode.com/problems/single-number-ii/)
