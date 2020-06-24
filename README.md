@@ -26,4 +26,5 @@
   7. Dungeon Game - Problem [#174](https://leetcode.com/problems/dungeon-game/)
 ## Week 4
   1. Single Number II - Problem [#137](https://leetcode.com/problems/single-number-ii/)
-  2. Count Complete Tree Nodes - Problem[#222](https://leetcode.com/problems/count-complete-tree-nodes/)
+  2. Count Complete Tree Nodes - Problem [#222](https://leetcode.com/problems/count-complete-tree-nodes/)
+  3. Unique Binary Search Trees - Problem [#96](https://leetcode.com/problems/unique-binary-search-trees/)
