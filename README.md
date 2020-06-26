@@ -28,3 +28,4 @@
   1. Single Number II - Problem [#137](https://leetcode.com/problems/single-number-ii/)
   2. Count Complete Tree Nodes - Problem [#222](https://leetcode.com/problems/count-complete-tree-nodes/)
   3. Unique Binary Search Trees - Problem [#96](https://leetcode.com/problems/unique-binary-search-trees/)
+  4. Find the Duplicate Number - Problem [#287](https://leetcode.com/problems/find-the-duplicate-number/)
