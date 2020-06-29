@@ -31,3 +31,4 @@
   4. Find the Duplicate Number - Problem [#287](https://leetcode.com/problems/find-the-duplicate-number/)
   5. Sum Root to Leaf Numbers - Problem [#129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
   6. Perfect Squares - Problem [#279](https://leetcode.com/problems/perfect-squares/)
+  7. Reconstruct Itinerary - Problem [#332](https://leetcode.com/problems/reconstruct-itinerary/)
