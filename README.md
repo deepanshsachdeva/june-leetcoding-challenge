@@ -32,3 +32,5 @@
   5. Sum Root to Leaf Numbers - Problem [#129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
   6. Perfect Squares - Problem [#279](https://leetcode.com/problems/perfect-squares/)
   7. Reconstruct Itinerary - Problem [#332](https://leetcode.com/problems/reconstruct-itinerary/)
+## Week 5
+  1. Unique Paths - Problem [#62](https://leetcode.com/problems/unique-paths/)
