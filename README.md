@@ -34,3 +34,4 @@
   7. Reconstruct Itinerary - Problem [#332](https://leetcode.com/problems/reconstruct-itinerary/)
 ## Week 5
   1. Unique Paths - Problem [#62](https://leetcode.com/problems/unique-paths/)
+  2. Word Search II - Problem [#212](https://leetcode.com/problems/word-search-ii/)
